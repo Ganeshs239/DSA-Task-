@@ -371,4 +371,16 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ganeshs239/DSA-Task-/tree/master/0001-two-sum) |
+## Stack
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Ganeshs239/DSA-Task-/tree/master/0225-implement-stack-using-queues) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Ganeshs239/DSA-Task-/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Ganeshs239/DSA-Task-/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
