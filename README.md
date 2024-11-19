@@ -367,10 +367,12 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ganeshs239/DSA-Task-/tree/master/0001-two-sum) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Ganeshs239/DSA-Task-/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ganeshs239/DSA-Task-/tree/master/0001-two-sum) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Ganeshs239/DSA-Task-/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Stack
 |  |
 | ------- |
@@ -383,4 +385,8 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Ganeshs239/DSA-Task-/tree/master/0225-implement-stack-using-queues) |
+## Sliding Window
+|  |
+| ------- |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Ganeshs239/DSA-Task-/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 <!---LeetCode Topics End-->
