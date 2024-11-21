@@ -389,4 +389,8 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 |  |
 | ------- |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Ganeshs239/DSA-Task-/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+## Math
+|  |
+| ------- |
+| [2383-add-two-integers](https://github.com/Ganeshs239/DSA-Task-/tree/master/2383-add-two-integers) |
 <!---LeetCode Topics End-->
