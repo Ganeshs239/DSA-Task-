@@ -367,6 +367,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ganeshs239/DSA-Task-/tree/master/0001-two-sum) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/Ganeshs239/DSA-Task-/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Ganeshs239/DSA-Task-/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Hash Table
 |  |
@@ -393,4 +394,12 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 |  |
 | ------- |
 | [2383-add-two-integers](https://github.com/Ganeshs239/DSA-Task-/tree/master/2383-add-two-integers) |
+## Matrix
+|  |
+| ------- |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/Ganeshs239/DSA-Task-/tree/master/2343-count-unguarded-cells-in-the-grid) |
+## Simulation
+|  |
+| ------- |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/Ganeshs239/DSA-Task-/tree/master/2343-count-unguarded-cells-in-the-grid) |
 <!---LeetCode Topics End-->
