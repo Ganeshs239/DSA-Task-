@@ -367,12 +367,14 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ganeshs239/DSA-Task-/tree/master/0001-two-sum) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Ganeshs239/DSA-Task-/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Ganeshs239/DSA-Task-/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Ganeshs239/DSA-Task-/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ganeshs239/DSA-Task-/tree/master/0001-two-sum) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Ganeshs239/DSA-Task-/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Ganeshs239/DSA-Task-/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Stack
 |  |
@@ -397,6 +399,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 ## Matrix
 |  |
 | ------- |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Ganeshs239/DSA-Task-/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Ganeshs239/DSA-Task-/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Simulation
 |  |
